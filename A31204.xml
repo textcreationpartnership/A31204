@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case truly stated betwixt the Dean and Chapter of Christs Church in Oxford, and VVilliam Adkins butcher, concerning Frideswides Medow near Oxford</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31204</idno>
+            <idno type="STC">Wing C1207</idno>
+            <idno type="STC">ESTC R40314</idno>
+            <idno type="EEBO-CITATION">18842822</idno>
+            <idno type="OCLC">ocm 18842822</idno>
+            <idno type="VID">108417</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31204)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108417)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1664:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case truly stated betwixt the Dean and Chapter of Christs Church in Oxford, and VVilliam Adkins butcher, concerning Frideswides Medow near Oxford</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1667]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Imperfect: creased with slight loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Adkins, William --  Trials, litigation, etc.</term>
+               <term>Fell, John, 1625-1686 --  Trials, litigation, etc.</term>
+               <term>Priorities of claims and liens --  England --  Oxford.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:108417:1" rendition="simple:additions"/>
+            <head>THE CASE TRULY STATED BETWIXT THE Dean and Chapter of Chriſts Church in <hi>OXFORD, And</hi> VVILLIAM ADKINS <hi>Butcher, concerning</hi> Frideſwides <hi>Medow near</hi> Oxford.</head>
+            <p>THe Dean and Chapter of Chriſts Church in <hi>Oxford</hi> were ſeiſed in ſee, in right of their Church, of a certain Medow called <hi>Frideſwides</hi> Medow, lying near unto <hi>Oxford,</hi> and the ſaid Medow lying near unto <hi>Oxford</hi> was, during the time that <hi>Oxford</hi> was a Garriſon for the late King, very much turfed and digged, and had ſeveral Bulworks made upon it, and the Rivers of <hi>Charwell</hi> and <hi>Thames</hi> were by His Majeſties ſouldiers turned in upon it, and lay all over it during the late wars, the better to keep the enemy from the Garriſon; by reaſon of which digging, turfing and floating, and the long lying of the waters upon it, the ſame was almoſt altogether ſpoiled, and did bear nothing but Flags and Sedge, and did become marſhy ground, ſo that after the wars the ſame was very little worth.</p>
+            <p>Whereupon Dr. <hi>Reynolds</hi> (now Lord Biſhop of <hi>Norwich</hi>) the Dean, and the then Chapter of the ſaid Church, conceiving that they were not enabled by any Charter or Grant to hold the ſaid Medow in their own hands, and to their own uſes, but that according to their truſt they were obliged to let the ſame at an improved rent in Corn for the benefit of the whole Society, which conſiſts of a 100. Students and divers other Scholars, and being deſirous that the ſaid Me<g ref="char:EOLhyphen"/>dow ſhould be improved and made good again for the benefit of themſelves and their ſucceſſors, did by their Indenture under their Common Seal, bearing date on the 20 day of <hi>Feb.</hi> in the year of our Lord 1649. demiſe the ſame unto the ſaid <hi>Will. Adkins</hi> for 21. years thence next enſuing, at and under an im<g ref="char:EOLhyphen"/>proved rent in Money and Corn, according to the Statute of the 18. <hi>Eliz,</hi> and alſo finding by old rent, rolls and records, that the old rent of the ſaid Medow was 10 <hi>l.</hi> 6 <hi>s. per an.</hi> or there abouts, they did improve the ſame in Money and Corn, which now uſully amounts <hi>Communibus annis</hi> to 35 <hi>l. per an.</hi> which hath been ſince paid and employed for the benefit of the whole Society, according to the intent of the founder, and the ſaid <hi>will. Adkins</hi> did alſo then pay to the ſaid Dean and Chapter for a Fine for the ſaid Leaſe the ſumme of 500 <hi>l.</hi>
+            </p>
+            <p>That afterwards the ſaid <hi>Will. Adkins</hi> was at very great Charges for ſeveral yeares together, in throwing down the Bulworks which were upon it, in drein<g ref="char:EOLhyphen"/>ing, ſcouring and trenching the Rivers and Ditches; in laying ſoil and Compoſt upon the ſame, and in planting many trees thereupon, and in other good huſ<g ref="char:EOLhyphen"/>bandry, which coſt the ſaid <hi>Will. Adkins</hi> at the leaſt 800 <hi>l.</hi> in ſo much, that he did thereby improve the ſaid Medow to be worth yearly as much more as it was worth when the ſaid <hi>Will. Adkins</hi> did firſt enter upon it.</p>
+            <p>That after this the ſaid <hi>Will. Adkins</hi> did renew the Leaſe from the Dean and Chapter again, who by their Indenture under their Common Seal, bearing date the 10. day of <hi>March,</hi> 1654. did demiſe the ſame unto the ſaid <hi>Will. Adkins</hi> for 21. yeares thence next enſuing, at and under the ſaid former improved rent in Money and Corn, for which ſaid new Leaſe <hi>Adkins</hi> did pay unto them the ſumme of 300 <hi>l.</hi> for a Fine; whereby it appeares that the ſaid <hi>Adkins</hi> did disburſe in Fines and the ſaid other Charges for the improving of the ſaid Premiſſes, the ſumme of 1600 <hi>l.</hi> at the leaſt.</p>
+            <p>That the ſaid Medow after all his ſaid Charges disburſed upon it, not being worth above 100 <hi>l. per annum,</hi> the Profits thereof hitherto have not near ſa<g ref="char:EOLhyphen"/>tisfied unto him the yearly Intereſt of his Money, and the Colledge yearly Rents and Taxes, that he hath paid for the ſame.</p>
+            <p>And yet not withſtanding, after the Reſtitution of His Majeſty, Dr. <hi>Fell</hi> being made Dean of the ſaid Church, he and the preſent Chapter being deſirous to have the ſaid Medow to their own uſes again, and pretending that the ſaid <hi>Adkins</hi>'s Leaſe was void in Law, in regard that the ſaid Medow had not formerly been demiſed, did without allowing any ſatisfaction to <hi>Adkins</hi> about two yeares ſince Commence an action of Ejectment in the name of one <hi>Thomas Hud<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Adkins.</hi> and the ſaid Cauſe coming co tryal at the ſame A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zes for the County of <hi>Oxford,</hi> in the year 1661. the ſaid Defendant <hi>Adkins</hi> did then make proof of all the ſaid matters of fact, and the Jury were then ready to have given a Verdict for <hi>Adkins,</hi> but Dr. <hi>Fell</hi> the Dean, and Dr. <hi>Dolben</hi> the Treaſurer of the ſaid Colledge, being both preſent in the Court, per<g ref="char:EOLhyphen"/>ceiving the ſame, did move the Judge that the matters in difference betwixt the parties ſhould be referred to the determination and award of an Arbitra<g ref="char:EOLhyphen"/>tor of their own chooſing, and thereupon it was ordered at the ſaid Aſſizes, that a Verdict by conſent ſhould be found for the Plaintiffs, and that all the dif<g ref="char:EOLhyphen"/>ferences betwixt the parties ſhould be referred to the ſaid Arbitrator, and that the <hi>Poſtea</hi> ſhould remain in the hands of the Clerk of the Aſſizes untill Mr. Juſtice <hi>Windham</hi> ſhould give order to the contrary, as by that order may appear.</p>
+            <p>Upon which reference the ſaid Arbitrator did take much pains to ſettle the differences betwixt them, but could not; and did therefore at laſt (to prevent the ruine of the ſaid <hi>Adkins</hi> and his family) on his Award in writing; bearing date on the 28. day of <hi>October,</hi> 1661. betwixt the ſaid parties, award that the ſaid Dean and Chapter ſhould pay to the ſaid <hi>Adkins,</hi> towards the ſatisfaction of all his Monies and Coſts, the ſumme of 600 <hi>l.</hi> at our Lady-day then next fol<g ref="char:EOLhyphen"/>lowing; and that in caſe the ſaid Monies ſhould be then paid, that then the ſaid <hi>Adkins</hi> ſhould ſurrender up his poſſeſſion and Leaſe to them; but in caſe that the Monies ſhould not be then paid, that then the ſaid <hi>Adkins</hi> or his Aſſignes ſhould hold and enjoy the ſaid Medow for the term of 7. years only then next enſuing, and ſhould at the end of the term of 7. years deliver up his Leaſe and poſſeſſion to the ſaid Dean and Chapter, as by the Award may appear.</p>
+            <p>And although the ſaid Arbitrator did not award unto <hi>Adkins</hi> one half of the Monies due to him, or that in caſe the ſaid Monies ſhould not be paid to him, did award to him but one half of the term, he having 14. years to come in his term at the time of the ſaid Award; yet the ſaid Dean and Chapter did refuſe to ſtand to the Award made by the ſaid Arbitrator of their own chooſing; and yet notwithſtanding all the ſaid premiſſes, the ſaid Dean and Chapter did in the laſt <hi>Mich.</hi> Term commence a new action of Ejectment in the name of the ſaid <hi>Thomas Hudſon</hi> their former Leſſee, againſt the ſaid <hi>Adkins</hi> for the reco<g ref="char:EOLhyphen"/>vering the poſſeſſion of the ſaid Medow from him, and the Cauſe did come to tryal this laſt Aſſizes at <hi>Oxford,</hi> and a Jury did appear, which were returned by the Prothonotary the laſt Term by order of the Court of Common-pleas.</p>
+            <p>And the Defendant <hi>Adkins</hi> having made full proof of all the ſaid Monies disburſed by him for the benefit of the Inheritance of the ſaid Colledge, and all the ſaid before mentioned matters of fact, the Jury after a long and full evidence given on both ſides, did find their Verdict for the Defendant <hi>Adkins.</hi>
+            </p>
+            <p>And yet notwithſtanding it is endeavoured that a Proviſo be added unto the Act for confirming of Colledge Leaſes, that the ſaid Act ſhall not ex<g ref="char:EOLhyphen"/>tend to confirm any Leaſes made of any Lands which were not let or dimiſed for eleven years or more before the year of our Lord 1640. which Proviſo if it ſhould paſſe, would deſtroy the ſaid Leaſe of <hi>Adkins,</hi> and many more Leaſes, which this Dean <hi>Fell</hi> and the preſent Chapter of Chriſts Church have confirmed of Lands never let before in Leaſe, till Biſhop <hi>Reynolds</hi> let them at that time when <hi>Adkins</hi> took his Leaſe of him.</p>
+            <p>And likewiſe at All-ſouls Colledge in <hi>Oxon</hi> they have renewed ſeverall Leaſes of Lands that were never put in Leaſe, till much about the time <hi>Adkins</hi> took his Leaſe of Biſhop <hi>Reynolds,</hi> and at New Colledge in <hi>Oxford</hi> they have renewed with many Tenants within this year and a half, and confirmed their Leaſes of Lands that were never put in Leaſe before about twelve years ago by thoſe that were then Governours in that place.</p>
+            <p>And yet <hi>Adkins</hi> doubts not but to prove and make it appear that the ſaid Medow hath been in ancient times demiſed at an old Rent, and the ſaid Leaſe is good by the Laws of this Land, if it be not avoided by the ſaid Proviſo.</p>
+            <p>And it is manifeſtly known that Dr. <hi>Fell</hi> who lays claim to half this Medow for himſelf, as he is now Dean of Chriſts Church, was never formerly inveſted in any part of it, nor thoſe five Canons likewiſe who ſeek to take the other from <hi>Adkins,</hi> and the improved Rent from the Students, which likewiſe were not formerly inveſted in theſe Lands. And the other two old Canons are thoſe that were there when Biſhop <hi>Reynolds</hi> let the Leaſe to <hi>Adkins,</hi> and took their Fines. and remain eſtabliſhed Canons there ſtill.</p>
+            <p>
+               <hi>The premiſſes conſidered, it is humbly ſubmitted to judgment what theſe Leaſes can be worth to thoſe Tenants who have paid great Fines, and have renewed their Leaſes within theſe two years, with theſe Governours, if they be called away, and other Governours put in their places.</hi>
+            </p>
+            <p>
+               <hi>And therefore the ſaid</hi> Adkins <hi>humbly prayes and hope, that the Proviſo ſhall not paſſe, but that his Leaſe may be confirmed as well as other Colledge Lea<g ref="char:EOLhyphen"/>ſes, and that the Law may determine the Title of the ſame betwixt him and the ſaid Dean and Chapter.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
